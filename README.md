@@ -35,4 +35,4 @@ The cache is on by default. Repeating a playground request was fast with almost 
 - **Confidence:** return detector confidence in Run Task output, or return null instead of model-written numbers, and document which tasks return it.
 - **Cache:** show a cache-hit indicator in the playground and always include `vcache` in responses.
 
-Shahmeer Khan, [LinkedIn link]
+Shahmeer Khan, https://www.linkedin.com/in/shahmerrkhann/
